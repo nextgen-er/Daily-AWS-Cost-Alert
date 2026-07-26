@@ -1,0 +1,43 @@
+timestamp,message
+1785067501842,"INIT_START Runtime Version: python:3.12.mainlinev2.v18	Runtime Version ARN: arn:aws:lambda:ap-south-1::runtime:9819e0b13863c84a43e11f5c724871d909046d3cfb807eeb19460c63f974f26f
+"
+1785067502629,"START RequestId: b857314e-dc98-43d2-beaf-6acb0e18bfbd Version: $LATEST
+"
+1785067503594,"Current Month-to-Date Cost: $0.71
+"
+1785067503790,"SNS Message ID: 210287e4-17e3-52e2-b9f7-e53bedcc01dd
+"
+1785067503793,"END RequestId: b857314e-dc98-43d2-beaf-6acb0e18bfbd
+"
+1785067503793,"REPORT RequestId: b857314e-dc98-43d2-beaf-6acb0e18bfbd	Duration: 1162.50 ms	Billed Duration: 1947 ms	Memory Size: 128 MB	Max Memory Used: 93 MB	Init Duration: 783.81 ms	
+"
+1785067572845,"START RequestId: 7799ebbc-072d-478a-95f2-86d71ad226ce Version: $LATEST
+"
+1785067573793,"Current Month-to-Date Cost: $0.71
+"
+1785067574003,"SNS Message ID: 027438c6-6768-576d-95fd-5a199d1db0ce
+"
+1785067574011,"END RequestId: 7799ebbc-072d-478a-95f2-86d71ad226ce
+"
+1785067574011,"REPORT RequestId: 7799ebbc-072d-478a-95f2-86d71ad226ce	Duration: 1165.05 ms	Billed Duration: 1166 ms	Memory Size: 128 MB	Max Memory Used: 93 MB	
+"
+1785067619035,"START RequestId: e7625ab8-f9fc-408b-8dd2-5d099d2710ae Version: $LATEST
+"
+1785067619451,"Current Month-to-Date Cost: $0.71
+"
+1785067619651,"SNS Message ID: c28fc300-e478-5805-b570-a1df1edb79e5
+"
+1785067619653,"END RequestId: e7625ab8-f9fc-408b-8dd2-5d099d2710ae
+"
+1785067619653,"REPORT RequestId: e7625ab8-f9fc-408b-8dd2-5d099d2710ae	Duration: 617.78 ms	Billed Duration: 618 ms	Memory Size: 128 MB	Max Memory Used: 93 MB	
+"
+1785067850852,"START RequestId: c9a0480a-0982-4fc8-a093-cb6ed962148a Version: $LATEST
+"
+1785067851797,"Current Month-to-Date Cost: $0.71
+"
+1785067851981,"SNS Message ID: 4b4c2144-21df-5d4f-a612-439bda54986f
+"
+1785067851990,"END RequestId: c9a0480a-0982-4fc8-a093-cb6ed962148a
+"
+1785067851990,"REPORT RequestId: c9a0480a-0982-4fc8-a093-cb6ed962148a	Duration: 1136.50 ms	Billed Duration: 1137 ms	Memory Size: 128 MB	Max Memory Used: 93 MB	
+"
